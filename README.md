@@ -119,3 +119,7 @@ There are many improvements and functionalities to add to the library, such as:
 ## Authors
 
 - Cristian Azócar - [CristianAzocar](https://github.com/CristianAzocar)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
